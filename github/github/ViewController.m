@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"我在开发hello github");
+    [self test];
 }
 
+- (void)test
+{
+    NSLog(@"test~~~~");
+}
 @end
