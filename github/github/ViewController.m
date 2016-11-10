@@ -25,14 +25,14 @@
 - (void)test
 {
     NSLog(@"test~~~~");
-    NSLog(@"ffafafaf");
-    NSLog(@"ffafafaf");
-    NSLog(@"ffafafaf");
-    NSLog(@"ffafafaf");
-    NSLog(@"ffafafaf");
-    NSLog(@"test~~~~");
-    NSLog(@"test~~~~");
-    NSLog(@"test~~~~");
-    NSLog(@"test~~~~");
+    NSLog(@"lxx~~~~");
+    NSLog(@"lxx~~~~");
+    NSLog(@"lxx~~~~");
+    NSLog(@"lxx~~~~");
+    NSLog(@"lxx~~~~");
+    NSLog(@"lxx~~~~");
+    NSLog(@"lxx~~~~");
+    NSLog(@"lxx~~~~");
+    
 }
 @end
