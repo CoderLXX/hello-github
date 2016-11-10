@@ -18,6 +18,8 @@
     [super viewDidLoad];
     NSLog(@"我在开发hello github");
     [self test];
+    
+    NSLog(@"sourcetree  study～～～");
 }
 
 - (void)test
