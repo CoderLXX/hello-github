@@ -34,10 +34,5 @@
     NSLog(@"test~~~~");
     NSLog(@"test~~~~");
     NSLog(@"test~~~~");
-    NSLog(@"what...");
-    NSLog(@"what...");
-    NSLog(@"what...");
-    NSLog(@"what...");
-    NSLog(@"what...");
 }
 @end
